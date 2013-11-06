@@ -1,0 +1,21 @@
+{
+    "adultCount": "1",
+    "childAges": [],
+    "country": null,
+    "culture": null,
+    "segList": [
+        {
+            "Depart": "20140307",
+            "Destination": "LIM",
+            "Origin": "BRU",
+            "__type": "SkyGate.Momondo.Engine.FlightService.SearchSegment"
+        },
+        {
+            "Depart": "20140321",
+            "Destination": "BRU",
+            "Origin": "LIM",
+            "__type": "SkyGate.Momondo.Engine.FlightService.SearchSegment"
+        }
+    ],
+    "ticketType": "ECO"
+}

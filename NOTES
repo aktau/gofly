@@ -1,0 +1,4 @@
+API's to (try) to implement:
+- ITA matrix (JSON, HTML => http://matrix.itasoftware.com/)
+- Farecompare (JSON, HTML => http://www.farecompare.com/products/fare-display/index.html)
+- Kayak (RSS => http://www.kayak.com/labs/rss/)

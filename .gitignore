@@ -1,13 +1,16 @@
-# Compiled Object files, Static and Dynamic libs (Shared Objects)
+# my vim keybinding build a file called go-app
+go-app
+
+# compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
 *.a
 *.so
 
-# Folders
+# folders
 _obj
 _test
 
-# Architecture specific extensions/prefixes
+# architecture specific extensions/prefixes
 *.[568vq]
 [568vq].out
 
